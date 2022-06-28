@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on some random things that I just make up.
 
-Tis is my readme.md version 0.0.01
-Ill carry on updating this as time goes on.
+This is my readme.md version 0.0.02
+I'll carry on updating this as time goes on.

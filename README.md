@@ -1,5 +1,29 @@
-[![JTech-Labs Stats](https://github-readme-stats.vercel.app/api?username=JTech-Labs)](https://github.com/anuraghazra/github-readme-stats)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print("Hello+World"!);Console.WriteLine("Hello+World"!);printf("Hello+World!");console.log("Hello+World!"))
+---
+Hello World! I am an avid self-thought developer focusing on game development but also occasionaly devel in electronic engeneering and web-dev. You can see all my open source progects in the repositories of this profile.
+---
+### What I use often:
+#### Languages:
+![C](https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png)  ![Python](https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png)  ![Bash](https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png)  ![Docker](https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png)  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+#### Technologies
+![Git](https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png)  ![GitHub](https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png)  ![NeoVIM](https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/258326081-b113a23c-5c04-45aa-819c-bd04e8ac2a37.png)  ![HTML](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png)  ![Godot](https://user-images.githubusercontent.com/25181517/193427942-3abc320a-1c9e-4316-bac0-cb8b280b669f.png)  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print("Hello+World");Console.WriteLine("Hello+World");printf("Hello+World");console.log("Hello+World"))](https://git.io/typing-svg)
+#### Others:
+![Linux](https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa)  ![Arch Linux](https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png)  ![Raspberry Pi](https://github.com/user-attachments/assets/63d6cb39-63c6-44fc-bbb1-2adcb8458a32)  
+
+### What I know:
+#### Languages:
+
+
+#### Technologies:
+![VSCode](https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png)  ![Pygame](https://github.com/marwin1991/profile-technology-icons/assets/76012086/cbaed680-d3a4-4693-9de6-23cdf5345928)  ![PostgreSQL](https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png)  ![MySQL](https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png)  
+
+#### Other:
+![Windows](https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png)  ![Arduino](https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627)  
+
+### What I am Learning:
+![Android Studio](https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png)  ![CSS](https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png)  ![Tailwind CSS](https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png) ![WebAssembly](https://user-images.githubusercontent.com/25181517/188324036-d704ac9a-6e61-4722-b978-254b25b61bed.png)  ![Supabase](https://github.com/user-attachments/assets/e40fc76b-c8d8-47c3-bb53-c7795abaf596)  ![JavaScript](https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png)  ![TypeScript](https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png)  ![Bun](https://github.com/marwin1991/profile-technology-icons/assets/136815194/7e9599e9-0570-4bb6-b17f-676ed589912f)  ![Svelte](https://github.com/marwin1991/profile-technology-icons/assets/136815194/e56b5093-2f58-40cc-b194-5bdde41077b5)  ![Astro](https://github.com/marwin1991/profile-technology-icons/assets/54946572/397c0300-2e47-464e-81eb-6e991c9255fc)  ![Kotlin](https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png)  ![C++](https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png)  ![C#](https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png)  ![Lua](https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/89970707-fd3d-46e9-897e-7e51ba07ba4c)  ![Rust](https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png)  ![Android](https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png)  ![Raylib](https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png)  ![65c02](https://ih1.redbubble.net/image.937749547.8606/st,small,507x507-pad,600x600,f8f8f8.jpg)
+
+---
+![JTech-Labs Stats](https://github-readme-stats.vercel.app/api?username=JTech-Labs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://streak-stats.demolab.com?user=JTech-Labs&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly)

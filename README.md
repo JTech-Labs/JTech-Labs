@@ -1,9 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print("Hello+World"!);Console.WriteLine("Hello+World"!);printf("Hello+World!");console.log("Hello+World!"))
 ---
 Hello World! I am an avid self-thought developer focusing on game development but also occasionaly devel in electronic engeneering and web-dev. You can see all my open source progects in the repositories of this profile.
+
 ---
 ### What I use often:
-#### Languages:
 <div align="center">
 	<table>
 		<tr>
@@ -14,8 +14,6 @@ Hello World! I am an avid self-thought developer focusing on game development bu
 		</tr>
 	</table>
 </div>
-
-#### Technologies
 <div align="center">
 	<table>
 		<tr>
@@ -27,8 +25,6 @@ Hello World! I am an avid self-thought developer focusing on game development bu
 		</tr>
 	</table>
 </div>
-
-#### Others:
 <div align="center">
 	<table>
 		<tr>
@@ -40,7 +36,6 @@ Hello World! I am an avid self-thought developer focusing on game development bu
 </div>
 
 ### What I know:
-#### Languages:
 <div align="center">
 	<table>
 		<tr>
@@ -48,8 +43,6 @@ Hello World! I am an avid self-thought developer focusing on game development bu
 		</tr>
 	</table>
 </div>
-
-#### Technologies:
 <div align="center">
 	<table>
 		<tr>
@@ -60,8 +53,6 @@ Hello World! I am an avid self-thought developer focusing on game development bu
 		</tr>
 	</table>
 </div>
-
-#### Other:
 <div align="center">
 	<table>
 		<tr>

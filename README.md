@@ -23,7 +23,6 @@ Hello World! I am an avid self-taught developer focusing on making videogames bu
 	</table>
 </div>
 
-
 ### What I know:
 <div align="center">
 	<table>

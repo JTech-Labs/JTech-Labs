@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print("Hello+World!");Console.WriteLine("Hello+World!");printf("Hello+World!");console.log("Hello+World!");echo+"Hello+World!";print+"Hello+World!")
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print("Hello+World!");Console.WriteLine("Hello+World!");printf("Hello+World!");console.log("Hello+World!");echo+"Hello+World!";print+"Hello+World!";println!("Hello+World!"))
 ---
 Hello World! I am an avid self-taught developer focusing on making videogames but also occasionaly devel in electronic engeneering and web-dev. You can see all my open source projects in the repositories of this profile.
 

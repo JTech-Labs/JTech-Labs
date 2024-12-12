@@ -37,7 +37,3 @@ Hello World! I am an avid self-taught developer focusing on making videogames bu
 		</tr>
 	</table>
 </div>
-
----
-
-![JTech-Labs Stats](https://github-readme-stats.vercel.app/api?username=JTech-Labs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&card_width=200px)  ![GitHub Streak](https://streak-stats.demolab.com?user=JTech-Labs&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=350&card_height=200)

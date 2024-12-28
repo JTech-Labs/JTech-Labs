@@ -1,4 +1,4 @@
-![Hello World!](https://readme-typing-svg.demolab.com/?lines=print("Hello+World!");Console.WriteLine("Hello+World!");printf("Hello+World!"); std::cout+"Hello+World!";console.log("Hello+World!");echo+"Hello+World!";print+"Hello+World!";println!("Hello+World!");DISPLAY+"Hello+World!";printIn("Hello+World!"))
+![Hello World](https://readme-typing-svg.demolab.com/?lines=print("Hello+World!");Console.WriteLine("Hello+World!");printf("Hello+World!"); std::cout+"Hello+World!";console.log("Hello+World!");echo+"Hello+World!";print+"Hello+World!";println!("Hello+World!");DISPLAY+"Hello+World!";printIn("Hello+World!"))
 ---
 Hello World! I am an avid self-taught developer focusing on making videogames but also occasionaly devel in electronic engeneering and web-dev. You can see all my open source projects in the repositories of this profile.
 

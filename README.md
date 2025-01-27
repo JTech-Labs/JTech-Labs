@@ -7,6 +7,7 @@ Hello World! I am an avid self-taught developer focusing on making videogames bu
 <div align="center">
 	<table>
 		<tr>
+			<td><code><img width="50" src="https://github.com/raysan5/raysan5/raw/main/images/logo_raylib.png" alt="Raylib" title="Raylib"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></code></td>

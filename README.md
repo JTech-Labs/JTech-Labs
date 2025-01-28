@@ -1,6 +1,6 @@
 ![Hello World](https://readme-typing-svg.demolab.com/?lines=print(%22Hello+World!%22);Console.WriteLine(%22Hello+World!%22);printf(%22Hello+World!%22);%20std::cout+%22Hello+World!%22;console.log(%22Hello+World!%22);echo+%22Hello+World!%22;print+%22Hello+World!%22;println!(%22Hello+World!%22);DISPLAY+%22Hello+World!%22;printIn(%22Hello+World!%22))
 ---
-Hello World! I am an avid self-taught developer focusing on making videogames but also occasionaly devel in electronic engeneering and web-dev. You can see all my open source projects in the repositories of this profile.
+<div aligh="center">Hello World! I am an avid software engeneer and videogame designer. I make stuff for people to enjoy. Here are my open source projects. Enjoy!</div>
 
 ---
 ### What I use often:

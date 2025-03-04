@@ -1,6 +1,6 @@
-![Hello World](https://readme-typing-svg.demolab.com/?lines=print(%22Hello+World!%22);Console.WriteLine(%22Hello+World!%22);printf(%22Hello+World!%22);%20std::cout+%22Hello+World!%22;console.log(%22Hello+World!%22);echo+%22Hello+World!%22;print+%22Hello+World!%22;println!(%22Hello+World!%22);DISPLAY+%22Hello+World!%22;printIn(%22Hello+World!%22);fmt.Println("Hello+World!");io.println("Hello+World!");System.print("Hello+World!");echo("Hello+World!");fmt.printf("Hello+World!"))
+![Hello World](https://readme-typing-svg.demolab.com/?lines=print(%22Hello+World!%22);Console.WriteLine(%22Hello+World!%22);printf(%22Hello+World!%22);std::cout+%22Hello+World!%22+<<+std.endl;console.log(%22Hello+World!%22);echo+%22Hello+World!%22;print+%22Hello+World!%22;println!(%22Hello+World!%22);DISPLAY+%22Hello+World!%22;printIn(%22Hello+World!%22);fmt.Println("Hello+World!");io.println("Hello+World!");System.print("Hello+World!");echo("Hello+World!");fmt.printf("Hello+World!"))
 ---
-<div align="center">Hello World! I am an avid software engeneer and videogame designer. I love all things related to technology, from PCB and CPU design to Web development. I make stuff for people to enjoy. Here are my open source projects. Enjoy!</div>
+<div align="center">Hello World! I am an avid software engeneer and videogame designer. I love all things related to technology, from PCB and CPU design to Web development. I make stuff for people to enjoy. Here are my open source projects. Have Fun!</div>
 
 ---
 ### What I use often:
